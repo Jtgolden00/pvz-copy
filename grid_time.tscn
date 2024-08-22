@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dt4xacapn7ajm"]
+
+[ext_resource type="Script" path="res://GridHolder.gd" id="1_h7fxw"]
+
+[node name="GRID TIME" type="Node"]
+
+[node name="Area2D" type="Area2D" parent="."]
+script = ExtResource("1_h7fxw")
